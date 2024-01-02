@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\Date-Time-KullanımıV3\Date-Time-KullanımıV3\obj\Debug\Date-Time-KullanımıV3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\Date-Time-KullanımıV3\Date-Time-KullanımıV3\obj\Debug\Date-Time-KullanımıV3.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\Date-Time-KullanımıV3\Date-Time-KullanımıV3\obj\Debug\Date_Time_KullanımıV3.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\Date-Time-KullanımıV3\Date-Time-KullanımıV3\obj\Debug\Date_Time_KullanımıV3.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\Date-Time-KullanımıV3\Date-Time-KullanımıV3\obj\Debug\Date-Time-KullanımıV3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\Date-Time-KullanımıV3\Date-Time-KullanımıV3\obj\Debug\Date-Time-KullanımıV3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\Date-Time-KullanımıV3\Date-Time-KullanımıV3\bin\Debug\Date-Time-KullanımıV3.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\Date-Time-KullanımıV3\Date-Time-KullanımıV3\bin\Debug\Date-Time-KullanımıV3.exe
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\Date-Time-KullanımıV3\Date-Time-KullanımıV3\bin\Debug\Date-Time-KullanımıV3.pdb
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\Date-Time-KullanımıV3\Date-Time-KullanımıV3\obj\Debug\Date-Time-KullanımıV3.exe
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\Date-Time-KullanımıV3\Date-Time-KullanımıV3\obj\Debug\Date-Time-KullanımıV3.pdb
